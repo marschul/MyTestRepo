@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 siht
 si
 a
 tset
+=======
+This here
+is
+a simple
+text document
+>>>>>>> new_branch
